@@ -1,0 +1,8 @@
+in for loop,
+    continue is skip, 
+    break is stop
+
+
+ollama.com - for local ai tools
+    glm-5.2
+    

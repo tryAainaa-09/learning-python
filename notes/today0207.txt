@@ -44,3 +44,5 @@ to update file in git
 git add .
 git commit -m "your_comment"
 git push
+
+git pull --rebase

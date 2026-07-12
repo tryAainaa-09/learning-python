@@ -46,3 +46,6 @@ git commit -m "your_comment"
 git push
 
 git pull --rebase
+
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass

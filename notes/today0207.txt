@@ -36,7 +36,10 @@ elif score >= 2:
 else:
     print("Better luck next time!")
 
+py -m venv myvenv
+myenv\Scripts\activate
 
+ctrl+shift P 
 
 
 to update file in git
@@ -49,3 +52,6 @@ git pull --rebase
 
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+uvicorn filename:app
+streamlit run file_name.py

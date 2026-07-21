@@ -1,0 +1,10 @@
+when read error, from bottom
+when fixing error, from top
+
+list what kind of table, column
+
+user table
+asset table
+list asset list
+asset status
+

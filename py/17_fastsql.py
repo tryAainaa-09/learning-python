@@ -39,7 +39,7 @@ class PostResponseForUser(BaseModel):
     created_at: str
 
 #Initialize database
-db_manager = DatabaseManager()
+db = DatabaseManager()
 
 @app.get("/")
 async def root():

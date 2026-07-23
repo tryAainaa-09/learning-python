@@ -224,7 +224,7 @@ def posts_page():
     st.header("✍ Posts Management")
 
     #create tabs for different operations
-    tab1, tab2, tab3 = st.tabe(["Create Post", "View Posts", "Manage Posts"])
+    tab1, tab2, tab3 = st.tab(["Create Post", "View Posts", "Manage Posts"])
 
     with tab1:
         st.subheader("Create New Post")

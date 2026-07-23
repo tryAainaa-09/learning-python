@@ -55,3 +55,8 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 uvicorn filename:app
 streamlit run file_name.py
+
+uvicorn filename:app --reload
+
+//backend chatbot
+https://github.com/Bro-chill/full_stack_rag_chatbot
